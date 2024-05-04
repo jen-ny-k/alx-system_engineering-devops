@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# a bash script that kills 7-highlander
+#Requirement: Kill and kill all command not allowed
+pkill -9 -f 7-highlander
