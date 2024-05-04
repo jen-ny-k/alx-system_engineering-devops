@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# a bash script that kills to infinity and beyond
+# Requirement: use kill command
+kill "$(pgrep -f 4-to_infinity_and_beyond)"
